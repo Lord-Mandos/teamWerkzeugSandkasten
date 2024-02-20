@@ -10,11 +10,15 @@ Wenn wir die infrastruktur der entwicklergemeinschaft erkunden, indem wir anstat
 
 Der einstieg ist simpel: es wird keine zusaetzliche software benoetigt und keine fancy befehle.
 
-Probier das gleich mit diesem dokument aus und schreib mal deine begruessung unter diesen satz.
+Probier das gleich mit diesem dokument aus und schreib mal deine begruessung unter diesen satz. \
 Lord-Mandos war hier.\
 Arthur war auch da ;).\
 Dominik \
-Martina ist dabei.
+Hi ich bin neu \
+Martina ist dabei. \
+Jakob ist ready :-) \
+Seid gegrüsst Helden des Untergangs ich heiße Andres =D\
+
 
 ## So gehts (mit ein paar klicks zum ziel:)
 
@@ -67,4 +71,6 @@ alle die anfragen, werde ich als projektbesitzer hinzufuegen, dass ein fragen ni
 es entwickelt sich eine sammlung von vielen projekten, welche waechst und waechst. alte sterben, neue werden geboren, dynamisch und lebendig wie das leben und wir sind die treibende kraft. mit fortlaufender zeit bleiben die interessanten bestehen und unsere gruppe gewinnt an teamgeist, wissen und motivation.
 und irgendwann sind wir bereit fuer die wilde welt da drausenn...
 
+## wenn die routine gekommen ist, dann schau hier, wie du noch mehr machen kannst:
 
+[tor in eine komfortabelere welt](https://dalek.zone/a/cantribo/video-channels)
